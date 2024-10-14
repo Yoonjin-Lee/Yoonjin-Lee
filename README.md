@@ -18,7 +18,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://velog.io/@peacemiller> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@peacemiller"> </a>
+    <div style="text-align: left;"> <a href=https://yoonjin-blog.vercel.app> <img src="https://img.shields.io/badge/Blog-F8F8F6?style=flat&logo=Blog&logoColor=white&link=https://yoonjin-blog.vercel.app"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
