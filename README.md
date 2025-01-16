@@ -6,7 +6,7 @@ I'm a passionate **Android Developer** with experience in building impactful and
 
 ## 💡 About Me
 
-- 🎓 **Education:** Graduated from **Konkuk University**, majoring in **Smart ICT Convergence Engineering**.
+<!-- - 🎓 **Education:** Graduated from **Konkuk University**, majoring in **Smart ICT Convergence Engineering**.-->
 - 💻 **Experience:** Hands-on experience in **Android development**, focusing on modern tools and technologies.
 - 🌟 **Goal:** To become a developer who brings meaningful improvements to people's lives through technology.
 
