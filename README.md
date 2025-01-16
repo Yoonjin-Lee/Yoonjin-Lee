@@ -35,6 +35,20 @@ I'm a passionate **Android Developer** with experience in building impactful and
 ## 📂 Featured Projects
 
 ### [Mental AI](https://github.com/Yoonjin-Lee/mental-ai)  
+<p align="start">
+  <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+</p>
+
+<p align="start">
+  <img src="https://img.shields.io/badge/hilt-D9D9D9?style=flat-square&logo=hilt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/composeUI-D9D9D9?style=flat-square&logo=compose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LiveData-D9D9D9?style=flat-square&logo=LiveData&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-D9D9D9?style=flat-square&logo=MVVM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coroutine-D9D9D9?style=flat-square&logo=Coroutine&logoColor=white"/>
+</p>  
+
 **Description:** An Android application designed to support users during emotionally challenging times.  
 - **Diary Management:** Allows users to write and view personal diaries.  
 - **Emotion Analysis:** Integrates with Gemini API to analyze emotions from diary entries.  
@@ -43,6 +57,20 @@ I'm a passionate **Android Developer** with experience in building impactful and
 - **Modern Android Development:** Built with Jetpack Compose, LiveData, Hilt, and MVVM architecture.  
 
 ### [MyToons](https://github.com/Yoonjin-Lee/webtoon)  
+<p align="start">
+  <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+</p>
+
+<p align="start">
+  <img src="https://img.shields.io/badge/hilt-D9D9D9?style=flat-square&logo=hilt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/composeUI-D9D9D9?style=flat-square&logo=compose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flow-D9D9D9?style=flat-square&logo=flow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-D9D9D9?style=flat-square&logo=MVVM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coroutine-D9D9D9?style=flat-square&logo=Coroutine&logoColor=white"/>
+</p>
+
 **Description:** An Android app that consolidates webtoons from various platforms, organized by day of the week.  
 - **Webtoon Organization:** Users can add their favorite webtoons categorized by day.  
 - **Automatic URL Generation:** Generates URLs based on titles and platforms, allowing users to read webtoons directly within the app.  
